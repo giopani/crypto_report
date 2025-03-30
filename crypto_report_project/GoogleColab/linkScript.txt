@@ -1,0 +1,5 @@
+Fine Tuning LLama 3.2: 
+https://colab.research.google.com/drive/18aBSGrHMI08EXPVwRSxGv_kKZh0R2Qdt?usp=sharing
+
+Esporre API per riassunti:
+https://colab.research.google.com/drive/1BeXsoEdg8FoHh3cgpzLFJuGl8A4BTzII?usp=sharing
